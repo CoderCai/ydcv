@@ -3,7 +3,6 @@ Simple wrapper for Youdao online translate (Chinese <-> English) service [API](h
 
 # User Guide
  * python ydcv.py yourword
-or
  * python ydcv.py "your sentence"
 
 ## Environment:
