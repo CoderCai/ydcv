@@ -4,6 +4,7 @@ Simple wrapper for Youdao online translate (Chinese <-> English) service [API](h
 ## User Guide
  * python ydcv.py yourword
  * python ydcv.py "your sentence"
+ * python ydcv.py,you will got a new line started with '>',input your word or sentence
 
 ## Environment:
- * Python ( >=2.7, 3.x )
+ * Python ( >=2.7, 3.x ).
